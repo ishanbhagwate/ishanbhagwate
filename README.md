@@ -56,7 +56,7 @@ For more projects, check out my [portfolio](https://ishanbhagwate.com).
 
 ## 📈 Stats
 
-![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshanBhagwate29&show_icons=true&theme=radical)
+![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshanBhagwate&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
