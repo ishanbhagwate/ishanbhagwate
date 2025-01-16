@@ -32,7 +32,7 @@ I'm a **Flutter Developer** with over 5 years of experience building smooth, cro
 
 ## 🛠️ Projects
 
-### **[CryptoCore](#https://github.com/ishanbhagwate/crypto-core)**
+### **[CryptoCore](https://github.com/ishanbhagwate/crypto-core)**
 
 A crypto app with features like market tracking, news, search, and profile management.
 
