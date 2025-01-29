@@ -11,7 +11,7 @@ I'm a **Flutter Developer** with over 5 years of experience building smooth, cro
 - **Frameworks:** Flutter, Node.js
 - **State Management:** BLoC, Provider, GetX
 - **Databases:** Firebase Firestore, MongoDB, MySQL, PostgreSQL
-- **Tools:** Android Studio, Visual Studio Code, Adobe XD, GitHub, GitLab
+- **Tools:** Android Studio, Visual Studio Code, Figma, GitHub, GitLab
 
 ### **Programming Languages**
 
@@ -38,7 +38,7 @@ A crypto app with features like market tracking, news, search, and profile manag
 
 ### **Bexpat**
 
-- Community app for expatriates and travelers
+- Community app for expatriates and travellers
 - Personalized algorithm for recommendations
 - Optimized chat system to reduce server costs
 
