@@ -1,126 +1,116 @@
 <div align="center">
 
-<br/>
+# Hey, I'm Ishan Bhagwate 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=48&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Flutter+Lead.;Founding+Engineer.;Mobile+Architect." alt="Ishan Bhagwate" />
+**Flutter Lead · Founding Engineer · Mobile Architect**
 
-<br/>
-
-**`Ishan Bhagwate`** &nbsp;·&nbsp; Pune, India &nbsp;·&nbsp; Building [@kolab.zone](https://kolab.zone)
-
-<br/>
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)&nbsp;
-![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)&nbsp;
-![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=flat-square&logo=googlechrome&logoColor=black)&nbsp;
-![Kolab](https://img.shields.io/badge/kolab.zone-7C3AED?style=flat-square)
-
-<br/><br/>
+<a href="https://www.linkedin.com/in/ishanbhagwate/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-ishanbhagwate-0A66C2?style=flat-square&logo=linkedin&logoColor=white)</a>
+<a href="mailto:ishanbhagwate29@gmail.com" target="_blank">![Email](https://img.shields.io/badge/Email-ishanbhagwate29%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)</a>
+<a href="https://ishanbhagwate.github.io" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-ishanbhagwate.github.io-00E5FF?style=flat-square&logo=googlechrome&logoColor=white)</a>
+<a href="https://kolab.zone" target="_blank">![Kolab](https://img.shields.io/badge/Currently%20Building-Kolab-7C3AED?style=flat-square)</a>
 
 </div>
 
 ---
 
-I'm a **Founding Engineer at Kolab** (Klickr Technologies) — built a creator-brand collaboration platform from scratch, solo, across iOS, Android, and Web. 6+ years of Flutter, end-to-end product ownership, and a growing obsession with AI/ML engineering.
+## 🚀 About Me
 
-```dart
-class IshanBhagwate {
-  final String role     = "Founding Engineer @ Kolab";
-  final String location = "Pune, Maharashtra, India";
+I'm a **Founding Engineer at <a href="https://kolab.zone" target="_blank">Kolab</a>** (Klickr Technologies), where I built a creator-brand collaboration platform from 0 to 1 — solo, across iOS, Android, and Web.
 
-  final List<String> stack = [
-    "Flutter 3.7+  ·  BLoC / HydratedBloc  ·  go_router",
-    "Firebase  ·  Flask  ·  PostgreSQL  ·  Stripe",
-    "Claude API  ·  OpenAI  ·  FastAPI  ·  Cloud Run",
-    "Fastlane  ·  TestFlight  ·  App Store Connect",
-  ];
+With **6+ years in Flutter**, I specialize in production-grade mobile architecture: clean, scalable, and built to last. I've shipped 15+ apps across fintech, e-commerce, healthcare, and social verticals, and I own every layer of the stack — from Dart internals and BLoC state management to Firebase, backend APIs, Stripe billing, and CI/CD.
 
-  final String building = "creator × brand matchmaking platform";
-  final String users    = "2,000+ on platform";
-}
-```
-
-<br/>
+- 📍 Based in Pune, Maharashtra, India
+- 🏗️ Currently: Founding Engineer @ Kolab — real-time matchmaking, AI onboarding, Stripe subscriptions
+- 🤖 Exploring: AI/ML Engineering — LLM integration, agents, and ML fundamentals
+- 🌐 Ships to: **iOS · Android · Web**
 
 ---
 
-## Stack
+## 🛠️ Tech Stack
 
-&nbsp;&nbsp;**Mobile** &nbsp;&nbsp;
-`Flutter 3.7+` `Dart 3` `BLoC` `HydratedBloc` `go_router` `get_it` `dartz`
+### 📱 Flutter & Dart
+![Flutter](https://img.shields.io/badge/Flutter%203.7+-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart%203-0175C2?style=flat-square&logo=dart&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC%20%2F%20HydratedBloc-5C4EE5?style=flat-square)
+![go_router](https://img.shields.io/badge/go__router-grey?style=flat-square)
+![get_it](https://img.shields.io/badge/get__it%20DI-grey?style=flat-square)
+![dartz](https://img.shields.io/badge/dartz%20Either-grey?style=flat-square)
 
-&nbsp;&nbsp;**Backend** &nbsp;&nbsp;
-`Firebase` `Firestore` `Flask 3` `PostgreSQL` `Node.js` `Supabase` `AWS S3`
+### 🔥 Firebase & Backend
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask%203-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-&nbsp;&nbsp;**AI / LLM** &nbsp;&nbsp;
-`Claude API` `OpenAI` `FastAPI` `Cloud Run` `Prompt Engineering`
+### 🤖 AI / LLM
+![Claude API](https://img.shields.io/badge/Claude%20API-7C3AED?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-&nbsp;&nbsp;**DevOps** &nbsp;&nbsp;
-`Fastlane` `TestFlight` `App Store Connect` `Play Console` `Stripe` `Webhooks`
-
-<br/>
-
----
-
-## Kolab &nbsp; [![Live](https://img.shields.io/badge/Live-kolab.zone-00E5FF?style=flat-square)](https://kolab.zone)
-
-> Creator × brand collaboration platform. Tinder-style swipe matchmaking, real-time proposals, AI-powered onboarding, and Stripe subscriptions — built solo, 0 to 1.
-
-- Architected Clean Architecture Flutter client with BLoC, HydratedBloc, go_router, and get_it DI
-- Built swipe matchmaking with real-time Firestore match system and rate-limited super-swipes
-- Shipped AI onboarding chat (Claude / OpenAI) via FastAPI microservice on Cloud Run
-- Integrated Stripe subscriptions with a custom web checkout flow
-- Set up Fastlane CI/CD pipeline — automated TestFlight builds and App Store Connect uploads
-- Designed multi-account system with FCM token refresh and Firestore stream resets
-
-&nbsp;&nbsp;`Flutter` `Firebase` `Flask` `PostgreSQL` `Stripe` `Claude API` `Fastlane` &nbsp;·&nbsp; **2,000+ users** &nbsp;·&nbsp; iOS · Android · Web
-
-<br/>
+### 🚀 DevOps & Payments
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
-## Projects
+## 🏗️ Featured Project — Kolab
 
-**🌍 Bexpat** &nbsp;·&nbsp; Expat community app with personalized recommendation algorithm and optimised real-time chat &nbsp;·&nbsp; `Flutter` `Firebase` `BLoC`
+> **Creator × Brand Collaboration Platform** — [kolab.zone](https://kolab.zone)
 
-**💳 ParrotPOS** &nbsp;·&nbsp; SaaS for bill payments and prepaid top-ups. Notification system cut overdue charges by **40%** &nbsp;·&nbsp; `Flutter` `Node.js` `PostgreSQL`
+A full-stack creator economy platform where brands run campaigns and influencers discover and apply via Tinder-style swipe matchmaking. Built end-to-end from scratch.
 
-**🏗️ GogoLean** &nbsp;·&nbsp; Construction and real estate management SaaS. Auction system boosted seller profits by **20%** &nbsp;·&nbsp; `Flutter` `Firebase`
+| Metric | Value |
+|--------|-------|
+| 👥 Users on platform | 2,000+ |
+| 📱 Platforms shipped | iOS · Android · Web |
+| 🏗️ Architecture | Clean Architecture · BLoC · HydratedBloc |
+| 🔥 Realtime infra | Firestore chat · proposals · match notifications |
+| 🤖 AI features | Claude/OpenAI onboarding chat via FastAPI + Cloud Run |
+| 💳 Billing | Stripe subscriptions · custom web checkout |
+| 🚀 CI/CD | Fastlane → TestFlight → App Store Connect |
 
-**🎨 15+ Client Apps** &nbsp;·&nbsp; Production apps at B2XDev across fintech, e-commerce, healthcare, and social — each shipped to the App Store &nbsp;·&nbsp; `Flutter` `Firebase` `BLoC`
-
-<br/>
+**Tech:** `Flutter 3.7+` `Firebase` `Flask` `PostgreSQL` `Stripe` `Claude API` `Fastlane`
 
 ---
 
-## Contributions
+## 📦 Other Projects
+
+### 🌍 Bexpat
+Community platform connecting expats worldwide — personalized recommendation algorithm, optimised real-time chat, relocation discovery features.  
+`Flutter` `Firebase` `BLoC` `Firestore` `REST APIs`
+
+### 💳 ParrotPOS
+SaaS platform for bill payments, prepaid top-ups, and donations. Built a smart notification system that reduced overdue charges by 40%.  
+`Flutter` `Node.js` `PostgreSQL`
+
+### 🏗️ GogoLean
+Commercial construction and real estate management SaaS. Implemented an auction system that increased seller profits by 20%.  
+`Flutter` `Firebase` `MongoDB`
+
+### 📊 CryptoCore
+Crypto tracking app with market data, news feed, search, and profile management.  
+`Flutter` `REST APIs` `Firebase`
+
+### 🎨 15+ Client Apps (B2XDev)
+Production Flutter apps across fintech, e-commerce, healthcare, and social verticals — each with App Store presence and full architecture ownership.
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **Flutter Lead**, **Mobile Architect**, and **Founding Engineer** roles — especially anything at the intersection of mobile and AI.
+
+- 📬 **Email:** [ishanbhagwate29@gmail.com](mailto:ishanbhagwate29@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/ishanbhagwate](https://www.linkedin.com/in/ishanbhagwate/)
+- 🌐 **Portfolio:** [ishanbhagwate.github.io](https://ishanbhagwate.github.io)
+
+---
 
 <div align="center">
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ishanbhagwate&show_icons=true&hide=stars,issues,prs&hide_rank=true&hide_border=true&bg_color=0d0d1a&title_color=00E5FF&icon_color=7C3AED&text_color=6e6e8a&count_private=true&include_all_commits=true&custom_title=Total+Contributions" height="120" alt="Contributions" />
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ishanbhagwate&style=flat-square&color=7C3AED&label=profile+views)
-
-<br/>
-
-</div>
-
----
-
-## Let's connect
-
-Open to **Flutter Lead**, **Mobile Architect**, and **Founding Engineer** roles — especially at the intersection of mobile and AI.
-
-&nbsp;&nbsp;✉️ &nbsp;[ishanbhagwate29@gmail.com](mailto:ishanbhagwate29@gmail.com) &nbsp;&nbsp;
-💼 &nbsp;[linkedin.com/in/ishanbhagwate](https://www.linkedin.com/in/ishanbhagwate/) &nbsp;&nbsp;
-🌐 &nbsp;[ishanbhagwate.github.io](https://ishanbhagwate.github.io)
-
-<br/>
-
-<div align="center">
-  <sub>Built with care in Pune, India</sub>
+  <sub>Built with ❤️ in Pune, India</sub>
 </div>
