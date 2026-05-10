@@ -105,9 +105,9 @@ Production Flutter apps across fintech, e-commerce, healthcare, and social verti
 
 <div align="center">
 
-![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshanBhagwate29&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=00E5FF&icon_color=7C3AED&text_color=a8a8be)
+![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishanbhagwate&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=00E5FF&icon_color=7C3AED&text_color=a8a8be)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanBhagwate29&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=00E5FF&text_color=a8a8be)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbhagwate&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=00E5FF&text_color=a8a8be)
 
 </div>
 
