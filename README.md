@@ -4,10 +4,10 @@
 
 **Flutter Lead · Founding Engineer · Mobile Architect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ishanbhagwate-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanbhagwate/)
-[![Email](https://img.shields.io/badge/Email-ishanbhagwate29%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ishanbhagwate29@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ishanbhagwate.github.io-00E5FF?style=flat-square&logo=googlechrome&logoColor=white)](https://ishanbhagwate.github.io)
-[![Kolab](https://img.shields.io/badge/Currently%20Building-Kolab-7C3AED?style=flat-square)](https://kolab.zone)
+<a href="https://www.linkedin.com/in/ishanbhagwate/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-ishanbhagwate-0A66C2?style=flat-square&logo=linkedin&logoColor=white)</a>
+<a href="mailto:ishanbhagwate29@gmail.com" target="_blank">![Email](https://img.shields.io/badge/Email-ishanbhagwate29%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)</a>
+<a href="https://ishanbhagwate.github.io" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-ishanbhagwate.github.io-00E5FF?style=flat-square&logo=googlechrome&logoColor=white)</a>
+<a href="https://kolab.zone" target="_blank">![Kolab](https://img.shields.io/badge/Currently%20Building-Kolab-7C3AED?style=flat-square)</a>
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **Founding Engineer at [Kolab](https://kolab.zone)** (Klickr Technologies), where I built a creator-brand collaboration platform from 0 to 1 — solo, across iOS, Android, and Web.
+I'm a **Founding Engineer at <a href="https://kolab.zone" target="_blank">Kolab</a>** (Klickr Technologies), where I built a creator-brand collaboration platform from 0 to 1 — solo, across iOS, Android, and Web.
 
 With **6+ years in Flutter**, I specialize in production-grade mobile architecture: clean, scalable, and built to last. I've shipped 15+ apps across fintech, e-commerce, healthcare, and social verticals, and I own every layer of the stack — from Dart internals and BLoC state management to Firebase, backend APIs, Stripe billing, and CI/CD.
 
@@ -60,7 +60,7 @@ With **6+ years in Flutter**, I specialize in production-grade mobile architectu
 
 ## 🏗️ Featured Project — Kolab
 
-> **Creator × Brand Collaboration Platform** — [kolab.zone](https://kolab.zone)
+> **Creator × Brand Collaboration Platform** — <a href="https://kolab.zone" target="_blank">kolab.zone ↗</a>
 
 A full-stack creator economy platform where brands run campaigns and influencers discover and apply via Tinder-style swipe matchmaking. Built end-to-end from scratch.
 
@@ -105,9 +105,15 @@ Production Flutter apps across fintech, e-commerce, healthcare, and social verti
 
 <div align="center">
 
-![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishanbhagwate&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=00E5FF&icon_color=7C3AED&text_color=a8a8be)
+<img src="https://github-readme-stats.vercel.app/api?username=ishanbhagwate&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=00E5FF&icon_color=7C3AED&text_color=a8a8be&count_private=true&include_all_commits=true" alt="Ishan's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbhagwate&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=00E5FF&text_color=a8a8be)
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=ishanbhagwate&hide_border=true&background=0d0d1a&stroke=00E5FF&ring=7C3AED&fire=00E5FF&currStreakNum=a8a8be&sideNums=a8a8be&currStreakLabel=00E5FF&sideLabels=5a5a72&dates=5a5a72" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbhagwate&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=00E5FF&text_color=a8a8be&count_private=true" alt="Top Languages" />
 
 </div>
 
@@ -117,9 +123,9 @@ Production Flutter apps across fintech, e-commerce, healthcare, and social verti
 
 I'm open to **Flutter Lead**, **Mobile Architect**, and **Founding Engineer** roles — especially anything at the intersection of mobile and AI.
 
-- 📬 **Email:** [ishanbhagwate29@gmail.com](mailto:ishanbhagwate29@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/ishanbhagwate](https://www.linkedin.com/in/ishanbhagwate/)
-- 🌐 **Portfolio:** [ishanbhagwate.github.io](https://ishanbhagwate.github.io)
+- 📬 **Email:** <a href="mailto:ishanbhagwate29@gmail.com" target="_blank">ishanbhagwate29@gmail.com</a>
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/ishanbhagwate/" target="_blank">linkedin.com/in/ishanbhagwate</a>
+- 🌐 **Portfolio:** <a href="https://ishanbhagwate.github.io" target="_blank">ishanbhagwate.github.io</a>
 
 ---
 
