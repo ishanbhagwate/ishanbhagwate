@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **Founding Engineer at <a href="https://kolab.zone" target="_blank">Kolab</a>** (Klickr Technologies), where I built a creator-brand collaboration platform from 0 to 1 — solo, across iOS, Android, and Web.
+I'm a **Founding Engineer at <a href="https://kolab.zone" target="_blank">Kolab</a>** (Klickr Technologies), where I built a creator-brand collaboration platform from 0 to 1 — solo, across iOS and Android.
 
 With **6+ years in Flutter**, I specialize in production-grade mobile architecture: clean, scalable, and built to last. I've shipped 15+ apps across fintech, e-commerce, healthcare, and social verticals, and I own every layer of the stack — from Dart internals and BLoC state management to Firebase, backend APIs, Stripe billing, and CI/CD.
 
